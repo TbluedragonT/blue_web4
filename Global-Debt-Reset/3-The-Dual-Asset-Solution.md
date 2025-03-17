@@ -178,6 +178,6 @@ Narayanan, A., Bonneau, J., Felten, E., Miller, A., & Goldfeder, S. (2016). Bitc
 
 Ostrom, E. (2009). Understanding Institutional Diversity. Princeton University Press.
 
-Stiglitz, J. E., & Weiss, A. (1981). Credit Rationing in Markets with Imperfect Information. The American Economic Review, 71(3), 393-410.
+Stiglitz, J. E. & Weiss, A. (1981). Credit Rationing in Markets with Imperfect Information. The American Economic Review, 71(3), 393-410.
 
 Tobin, J. (1963). Commercial Banks as Creators of "Money". Cowles Foundation Discussion Papers 159.
